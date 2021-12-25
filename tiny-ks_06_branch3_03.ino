@@ -1,5 +1,5 @@
  /* Programm:   tiny_KS
- * Author:      Peter Sahlmann
+ * Author:      Peter S.
  * Startdatum   13.03.2018
  * chip:        attiny85
  * Zweck:       KS Generator für Unterwegs, fuer USB Handy Netzteil, 
